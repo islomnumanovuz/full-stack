@@ -1,0 +1,7 @@
+- client
+- browser
+- domen
+- request
+- request handling
+- response
+- request and response scyle
